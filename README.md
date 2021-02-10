@@ -10,14 +10,14 @@
 <a href="https://discord.gg/Benzetacil#7945" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="benzetaa" height="30" width="40" /></a>
 </p>
 
-### Linguagens:
+### Languages:
 <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-430098?style=flat-square&logo=gnu-bash&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-430098?style=flat-square&logo=php&logoColor=white" /> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-### Estatísticas
+### Statistics
 
 ![Levi's github stats](https://github-readme-stats.vercel.app/api?username=CapuzSec&show_icons=true&theme=radical)
   
