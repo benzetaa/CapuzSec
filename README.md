@@ -1,49 +1,24 @@
-<h2> Hi<img src="https://github.com/Neelakandan-A/my-portfolio/blob/main/Hi.gif" height="25" width="25" />, I'm Neelakandan A!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Neelakandan-A&show_icons=true&theme=tokyonight" width="380">
+### Hi 👋, I'm Benzetaa
 
-<img src="https://github.com/Neelakandan-A/my-portfolio/blob/main/21004063.jpg" height="150" width="150">
+- :desktop_computer: Security Research
+- :scroll: "Whenever I surf the Internet, I feel like I don't know anything"
+ 
 
-<p><em>Security Researcher, Red Teaming, Exploit Developer, CTF Player <br>
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/benzetaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benzetaa" height="30" width="40" /></a>
+<a href="https://discord.gg/benzetaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="benzetaa" height="30" width="40" /></a>
+</p>
 
-[![Twitter: _mr_anony_mous](https://img.shields.io/twitter/follow/_mr_anony_mous?style=flat-square)](https://twitter.com/_mr_anony_mous)
-[![GitHub Neelakandan-A](https://img.shields.io/github/followers/Neelakandan-A?label=follow%20github&style=flat-square)](https://github.com/Neelakandan-A)
+### Linguagens:
+<p>
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-430098?style=flat-square&logo=gnu-bash&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-430098?style=flat-square&logo=php&logoColor=white" /> 
+    <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-#### A Web Application Penetration Tester. Love To Find Loopholes😉
+### Estatísticas
 
-<h1><h1>
-
-<a href="https://twitter.com/_mr_anony_mous">
-  <img align="left" alt="kspraveen's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/neelakandan-a-12744418b/">
-  <img align="left" alt="kspraveen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Neelakandan-A">
-  <img align="left" alt="kspraveen's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/mr_anonymous">
-  <img align="left" alt="kspraveen's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/_mr_anony_mous">
-  <img align="left" alt="kspraveen's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/neelakandan.a.397">
-  <img align="left" alt="kspraveen's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<!--
-**Neelakandan-A/Neelakandan-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Levi's github stats](https://github-readme-stats.vercel.app/api?username=CapuzSec&show_icons=true&theme=radical)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapuzSec&theme=radical&layout=compact)
