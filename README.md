@@ -1,8 +1,5 @@
-### Hi 👋, I'm Benzetaa
+### Benzetaa
 
-- :desktop_computer: Security Research
-- :scroll: "Whenever I surf the Internet, I feel like I don't know anything"
- 
 ### Languages:
 <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-430098?style=flat-square&logo=gnu-bash&logoColor=white" />
