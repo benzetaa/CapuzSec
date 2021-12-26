@@ -3,12 +3,6 @@
 - :desktop_computer: Security Research
 - :scroll: "Whenever I surf the Internet, I feel like I don't know anything"
  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/benzetaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benzetaa" height="30" width="40" /></a> 
-</p>
-
 ### Languages:
 <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-430098?style=flat-square&logo=gnu-bash&logoColor=white" />
